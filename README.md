@@ -20,5 +20,5 @@ A simple task management application built with React. Users can add tasks, mark
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/Rahel89/Task-manager>
+   git clone <https://github.com/Rahel89/Task-manager-frontend>
    ```
